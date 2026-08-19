@@ -20,6 +20,6 @@ Welcome to your team's official codebase for the current development cycle.
 
 ## 👥 Assigned Team Roster
 * **Product Manager (PM):** @rrgoo145@gmail.com
-* **Software Engineer (SE):** @username
+* **Software Engineer (SE):** @Pgac247
 * **Cyber Compliance Analyst (CCA):** @username
 * **QA Tester (QA):** @username
