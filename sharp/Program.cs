@@ -1,5 +1,6 @@
 // BCH Software Inc. - Sprint 1: Interactive Kiosk
-// Track: C# / CIS151 Software Engineering
+// Track: C# / CIS151 Software Engineering 
+// Pablo 8/21
 using System;
 
 namespace BCHSoftware {
