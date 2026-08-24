@@ -10,5 +10,5 @@ Oliver Edwards 08-21-26
 * \[ ] **PII Protection:** Only required badge fields are captured and echoed.
 * \[ ] **Workstation Compliance:** Backpacks stowed, seats locked when unattended.
 
-**Official CCA Clearance Signature:** Jigon220@learner.dvusd.org
+**Official CCA Clearance Signature:** 
 
