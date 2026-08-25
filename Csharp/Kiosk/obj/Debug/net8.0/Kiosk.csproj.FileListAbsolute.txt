@@ -1,0 +1,15 @@
+C:\Users\pgac247\Desktop\Sprint1-Kiosk-Team4\Csharp\Kiosk\bin\Debug\net8.0\Kiosk.exe
+C:\Users\pgac247\Desktop\Sprint1-Kiosk-Team4\Csharp\Kiosk\bin\Debug\net8.0\Kiosk.deps.json
+C:\Users\pgac247\Desktop\Sprint1-Kiosk-Team4\Csharp\Kiosk\bin\Debug\net8.0\Kiosk.runtimeconfig.json
+C:\Users\pgac247\Desktop\Sprint1-Kiosk-Team4\Csharp\Kiosk\bin\Debug\net8.0\Kiosk.dll
+C:\Users\pgac247\Desktop\Sprint1-Kiosk-Team4\Csharp\Kiosk\bin\Debug\net8.0\Kiosk.pdb
+C:\Users\pgac247\Desktop\Sprint1-Kiosk-Team4\Csharp\Kiosk\obj\Debug\net8.0\Kiosk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pgac247\Desktop\Sprint1-Kiosk-Team4\Csharp\Kiosk\obj\Debug\net8.0\Kiosk.AssemblyInfoInputs.cache
+C:\Users\pgac247\Desktop\Sprint1-Kiosk-Team4\Csharp\Kiosk\obj\Debug\net8.0\Kiosk.AssemblyInfo.cs
+C:\Users\pgac247\Desktop\Sprint1-Kiosk-Team4\Csharp\Kiosk\obj\Debug\net8.0\Kiosk.csproj.CoreCompileInputs.cache
+C:\Users\pgac247\Desktop\Sprint1-Kiosk-Team4\Csharp\Kiosk\obj\Debug\net8.0\Kiosk.sourcelink.json
+C:\Users\pgac247\Desktop\Sprint1-Kiosk-Team4\Csharp\Kiosk\obj\Debug\net8.0\Kiosk.dll
+C:\Users\pgac247\Desktop\Sprint1-Kiosk-Team4\Csharp\Kiosk\obj\Debug\net8.0\refint\Kiosk.dll
+C:\Users\pgac247\Desktop\Sprint1-Kiosk-Team4\Csharp\Kiosk\obj\Debug\net8.0\Kiosk.pdb
+C:\Users\pgac247\Desktop\Sprint1-Kiosk-Team4\Csharp\Kiosk\obj\Debug\net8.0\Kiosk.genruntimeconfig.cache
+C:\Users\pgac247\Desktop\Sprint1-Kiosk-Team4\Csharp\Kiosk\obj\Debug\net8.0\ref\Kiosk.dll
