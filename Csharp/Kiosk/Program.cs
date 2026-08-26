@@ -17,8 +17,8 @@ namespace BCHSoftware
             Console.Write("Enter your organization: ");
             string org = Console.ReadLine();
 
-            Console.Write("Enter your contact: ");
-            string contact = Console.ReadLine();
+            Console.Write("Enter your email: ");
+            string Email = Console.ReadLine();
 
             Console.Write("Enter your access level: ");
             string access = Console.ReadLine();
@@ -40,7 +40,7 @@ namespace BCHSoftware
             Console.WriteLine(new string('=', lineWidth + 2));
             Console.WriteLine(CreateLine("Attendee", name));
             Console.WriteLine(CreateLine("Organization", org));
-            Console.WriteLine(CreateLine("Contact", contact));
+            Console.WriteLine(CreateLine("Email", Email));
             Console.WriteLine(CreateLine("Access", access));
             Console.WriteLine(CreateLine("Issuer", issuer));
             Console.WriteLine(new string('=', lineWidth + 2));
