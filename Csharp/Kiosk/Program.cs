@@ -23,9 +23,6 @@ namespace BCHSoftware
             Console.Write("Enter your access level: ");
             string access = Console.ReadLine();
 
-            Console.Write("Enter issuer: ");
-            string issuer = Console.ReadLine();
-
             // Calculate maximum line length for consistent formatting
             int lineWidth = 40; // total width including borders
 
@@ -42,7 +39,7 @@ namespace BCHSoftware
             Console.WriteLine(CreateLine("Organization", org));
             Console.WriteLine(CreateLine("Email", Email));
             Console.WriteLine(CreateLine("Access", access));
-            Console.WriteLine(CreateLine("Issuer", issuer));
+            Console.WriteLine(CreateLine("Issuer", "BCH Software Terminal System"));
             Console.WriteLine(new string('=', lineWidth + 2));
         }
     }
